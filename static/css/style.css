@@ -36,6 +36,17 @@ body {
     color: #0c5eaa;
   }
 
+  .navbar-brand {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: 20px;
+  }
+
+  .navbar-search {
+    flex-grow: 1;
+    text-align: center;
+  }
+
   a.btn {
     display: inline-block;
     padding: 10px 20px;
