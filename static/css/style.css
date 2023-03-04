@@ -1,3 +1,8 @@
+h1 {
+  font-size: 45px;
+  font-weight: bolder;
+}
+
 body {
     background-color: #fff;
     color: #000;
@@ -40,6 +45,7 @@ body {
     display: inline-block;
     margin-right: auto;
     margin-left: 20px;
+    font-weight: bolder;
   }
 
   .navbar-search {
